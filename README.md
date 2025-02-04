@@ -81,12 +81,12 @@ Stay updated with the latest news and progress on EcoSynthAI:
 ### **Data Collection:**
 - 🌍 **Global datasets** on soil, climate, species DNA, and failed restoration projects.
 - 🤝 **Partnerships** with biobanks and environmental NGOs for niche data.
-**Tools/Libraries:
+**Tools/Libraries:**
 
-scrapy for web scraping
-requests for API interactions
-pandas for data manipulation
-geopandas for geospatial data**
+**scrapy for web scraping**
+**requests for API interactions**
+**pandas for data manipulation**
+**geopandas for geospatial data**
 
 ## 📝 **License**
 
