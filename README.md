@@ -76,6 +76,18 @@ Stay updated with the latest news and progress on EcoSynthAI:
 
 ---
 
+## 🛠 **Technical Approach**
+
+### **Data Collection:**
+- 🌍 **Global datasets** on soil, climate, species DNA, and failed restoration projects.
+- 🤝 **Partnerships** with biobanks and environmental NGOs for niche data.
+**Tools/Libraries:
+
+scrapy for web scraping
+requests for API interactions
+pandas for data manipulation
+geopandas for geospatial data**
+
 ## 📝 **License**
 
 This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
